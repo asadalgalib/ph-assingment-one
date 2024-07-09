@@ -63,7 +63,7 @@ text-align: center;
 .banner-content{
     width: 998px;
     height: 582px;
-    margin: 26px auto 44px;
+    margin:26px auto 44px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -74,7 +74,7 @@ text-align: center;
     height: 230px;
     width: 230px;
     margin-top: 26px;
-    margin-bottom: 15px;
+    margin-bottom: 32px;
 }
 .banner-text h1{
     color: rgb(13, 19, 33);
@@ -84,7 +84,7 @@ font-weight: 800;
 line-height: 60px;
 letter-spacing: 0%;
 text-align: center;
-margin-bottom: 15px;
+margin-bottom: 32px;
 }
 .banner-text p{
     color: rgb(13, 19, 33);
@@ -98,7 +98,7 @@ text-align: center;
 margin-bottom: 32px;
 }
 .banner-text button{
-    margin-bottom: 35px;
+
     color: rgb(255, 255, 255);
 font-family: Azeret Mono;
 font-size: 18px;
