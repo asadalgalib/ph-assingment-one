@@ -324,7 +324,6 @@ font-weight: 800;
 line-height: 36px;
 letter-spacing: 0%;
 text-align: left;
-/* margin-top: 12px; */
 }
 .html p, .css p, .js p{
 color: rgb(13, 19, 33);
@@ -335,7 +334,6 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: left;
 opacity: 0.7;
-/* margin-top: 12px; */
 }
 .html a, .css a, .js a{
     color: rgb(13, 19, 33);
@@ -346,5 +344,78 @@ line-height: 19px;
 letter-spacing: 0%;
 text-align: left;
 text-decoration-line: underline;
-/* margin-top: 20px; */
+}
+/* next target style */
+.next-target{
+    width: 1140px;
+    height: 870px;
+    margin: 75px auto;
+}
+.next-target-text h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin: 24px 0px;
+}
+.next-target-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin: 24px 0px;
+}
+.next-target-topic{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.react-js, .node-js, .mongodb{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: #fff; 
+    padding: 40px;
+    display: flex;
+    gap: 30px;
+
+}
+.react-js h1, .node-js h1, .mongodb h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 8px 0px;
+}
+.react-js p, .node-js p, .mongodb p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin: 8px 0;
+}
+.react-js a, .node-js a, .mongodb a{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+margin: 24px 0px;
 }
