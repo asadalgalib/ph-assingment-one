@@ -419,3 +419,56 @@ text-align: left;
 text-decoration-line: underline;
 margin: 24px 0px;
 }
+/* support section style */
+.support{
+    height: 315px;
+    width: 1140px;
+    margin: 75px auto;
+    padding: 64px 48px;
+    border-radius: 16px;
+    background-image:linear-gradient(90.00deg, rgb(0, 0, 0.2),rgba(0, 0, 0, 0.2) 100%),url(./assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.support-text h1{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    margin: 16px 0px;
+}
+.support p{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin: 16px 0px;
+}
+.feedback-text{
+    width: 548px;
+    height: 57px;
+    margin: 0px 16px;
+    padding: 19px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: #fff;
+}
+.feedback-submit{
+    padding: 17px 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    border-radius: 8px;
+    background: #fff;
+}
