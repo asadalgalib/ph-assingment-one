@@ -10,7 +10,10 @@ body{
     margin: 0px;
     padding: 0px;
 }
-
+html{
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
 /* nav style */
 nav{
     margin: 0 auto;
