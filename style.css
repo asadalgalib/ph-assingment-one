@@ -103,13 +103,13 @@ margin-bottom: 32px;
 .banner-text a{
 text-decoration: none;
 color: rgb(255, 255, 255);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 18px;
 font-weight: 600;
 line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
-padding: 21px 24px 21px 24px;
+padding: 21px 26px 21px 26px;
 border-radius: 8px;
 background: rgb(13, 19, 33);
 border: none;
@@ -145,7 +145,7 @@ text-align: center;
 }
 .development-text p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -187,7 +187,7 @@ margin: 16px 0px
 }
 .answer-one-text p, .answer-two-text p, .answer-three-text p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -206,7 +206,7 @@ margin: 16px 0px;
 
 .answer-one-text button, .answer-two-text button, .answer-three-text button{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 20px;
 font-weight: 600;
 line-height: 23px;
@@ -231,7 +231,7 @@ height: 240px;
 }
 .inspiration-text h1{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 32px;
 font-weight: 800;
 line-height: 37px;
@@ -241,7 +241,7 @@ margin: 24px 0px;
 }
 .inspiration-text p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -270,7 +270,7 @@ margin-bottom: 10px;
 }
 .current-target-text h1{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 32px;
 font-weight: 800;
 line-height: 37px;
@@ -280,7 +280,7 @@ margin: 24px 0px;
 }
 .current-target-text p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -329,7 +329,7 @@ background: rgba(255, 76, 30, 0.05);
 }
 .html h1, .css h1, .js h1{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 26px;
 font-weight: 800;
 line-height: 36px;
@@ -338,7 +338,7 @@ text-align: left;
 }
 .html p, .css p, .js p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 500;
 line-height: 26px;
@@ -348,7 +348,7 @@ opacity: 0.7;
 }
 .html a, .css a, .js a{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+    font-family: "Azeret Mono", monospace;
 font-size: 18px;
 font-weight: 700;
 line-height: 19px;
@@ -364,7 +364,7 @@ text-decoration-line: underline;
 }
 .next-target-text h1{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 32px;
 font-weight: 800;
 line-height: 37px;
@@ -374,7 +374,7 @@ margin: 24px 0px;
 }
 .next-target-text p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -400,7 +400,7 @@ margin: 24px 0px;
 }
 .react-js h1, .node-js h1, .mongodb h1{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 24px;
 font-weight: 800;
 line-height: 36px;
@@ -410,7 +410,7 @@ margin: 8px 0px;
 }
 .react-js p, .node-js p, .mongodb p{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -421,7 +421,7 @@ margin: 8px 0;
 }
 .react-js a, .node-js a, .mongodb a{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 700;
 line-height: 19px;
@@ -445,7 +445,7 @@ margin: 24px 0px;
 }
 .support-text h1{
     color: rgb(255, 255, 255);
-    font-family: Azeret Mono;
+    font-family: "Azeret Mono", monospace;
     font-size: 32px;
     font-weight: 700;
     line-height: 36px;
@@ -454,7 +454,7 @@ margin: 24px 0px;
 }
 .support p{
 color: rgb(255, 255, 255);
-font-family: Azeret Mono;
+font-family: "Azeret Mono", monospace;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -475,7 +475,7 @@ margin: 16px 0px;
 .feedback-submit{
     padding: 17px 20px;
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
+    font-family: "Azeret Mono", monospace;
     font-size: 20px;
     font-weight: 600;
     line-height: 23px;
@@ -499,7 +499,7 @@ margin: 16px 0px;
 }
 .contact h1{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
+    font-family: "Azeret Mono", monospace;
     font-size: 20px;
     font-weight: 600;
     line-height: 23px;
@@ -511,4 +511,123 @@ margin: 16px 0px;
     width: 36px;
     height: 36px;
     margin-left: 20px;
+}
+.hide{
+    display: none;
+}
+/* responsive */
+@media screen and (max-width:576px) {
+    /* nav responsive */
+    .nav-content{
+        width: 100%;
+        height: 100px;
+        margin: 0;
+    }
+    .logo{
+        font-size: 20px;
+        margin-left:10px ;
+    }
+    .resume{
+        margin-right: 10px;
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+    /* banner */
+    .banner-container{
+        width: 100%;
+        height: 70vh;
+        margin: 0;
+        background-image: none;
+    }
+    .banner-content{
+        width: 100%;
+        height: 70vh;
+        gap: 10px;
+        margin: 0 auto;
+    }
+    
+    .banner-image{
+        height: 240px;
+        width: 240px;
+        margin:20px 0px;
+    }
+    /* development */
+    .development-container{
+        width: calc(100% - 40px);
+        height: 100%;
+        padding: 0;
+    }
+    .answer-one , .answer-two, .answer-three{
+        width: calc(100% - 40px);
+        height: auto;
+        flex-direction: column;
+        padding: 0;
+    }
+    .answer-one-text, .answer-two-text, .answer-three-text{
+        width: calc(100% - 40px);
+    }
+    .answer-one-text h1, .answer-two-text h1,
+     .answer-three-text h1,.answer-one-text p, 
+     .answer-two-text p, .answer-three-text p{
+        text-align: center;
+     }
+    /* inspiration */
+    .inspiration-container{
+        width: calc(100% - 40px);
+        height: auto;
+    }
+    .inspiration-vedio{
+        width: 100%;
+        height: auto;
+        padding: 0;
+        border: none;
+    }
+    /* current target */
+    .current-target{
+        width: calc(100% - 40px);
+        height: auto;
+    }
+    .current-target-topic{
+        flex-direction: column;
+    }
+    .css, .js, .html{
+        width: 100%;
+    }
+    /* next target */
+    .next-target{
+        width: calc(100% - 40px);
+        height: auto;
+    }
+    .react-js, .node-js, .mongodb{
+        flex-direction: column;
+    }
+    /* support */
+    .support{
+        padding: 20px;
+        height: 50%;
+        width: calc(100% - 40px);
+    }
+    .support-text{
+        padding: 20px;
+    }
+    .feedback-text{
+        width: calc(100% - 40px);
+        padding: 10px;
+        height: 40px;
+    }
+    .feedback-submit{
+        padding: 8px 16px;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    /* footer */
+    .contact{
+        padding: 20px;
+        width: 100%;
+        height: 150px;
+    }
+    .contact-content{
+        flex-direction: column;
+        gap: 30px;
+    }
 }
