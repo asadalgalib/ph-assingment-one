@@ -535,13 +535,13 @@ margin: 16px 0px;
     /* banner */
     .banner-container{
         width: 100%;
-        height: 70vh;
+        height: 90vh;
         margin: 0;
         background-image: none;
     }
     .banner-content{
         width: 100%;
-        height: 70vh;
+        height: 90vh;
         gap: 10px;
         margin: 0 auto;
     }
